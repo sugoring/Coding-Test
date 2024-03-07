@@ -2,8 +2,8 @@
 알고리즘 및 자료구조 기록 
 ---
 ### 언어
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/python-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+- java
+- python
 ----
 ### 문제 제공 사이트
 - backjoon: https://www.acmicpc.net/problemset
