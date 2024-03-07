@@ -8,9 +8,6 @@ coins.sort(reverse=True)
 count = 0
 
 for i in coins:
-    if k < i:
-        continue
-    else:
         count += k // i
         k %= i
         
