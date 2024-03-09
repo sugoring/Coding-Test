@@ -1,10 +1,14 @@
 n = int(input())
-p = list(map(int, input().split()))
-    
-p.sort()
-result = 0
+meet = [tuple(map(int, input().split())) for _ in range(n)]
+meet.sort(key=lambda x: (x[1], x[0]))
+count = 1 if meet[0][1] != 0 else 0
+compare = meet[0][1]
 
-for i in range(n):
-    result += p[i]*(n-i)
+for i in range(1, n):
+    if compare <= meet[i][0]:
+        count += 1
+        compare = meet[i][1]
+    else:
+        continue
     
-print(result)
+print(count)
