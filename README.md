@@ -1,7 +1,6 @@
 # Coding Test 준비
-
-알고리즘 및 자료구조에 관한 학습 기록 레퍼지토리
-
+- 문제 해결 역량(알고리즘 및 자료구조)에 관한 학습 기록 레퍼지토리
+- 자주 사용하는 알고리즘 코드를 라이브러리화
 ---
 
 ## 사용 언어 변경: Java에서 Python으로
@@ -19,7 +18,7 @@
 
 ### 알고리즘 개념 학습
 
-- 학습 내용: 그리디, 구현, DFS, BFS, 정렬, 이진 탐색, 다이나믹 프로그래밍, 최단 경로, 그래프 이론 등
+- 학습 내용: **그리디**, **구현**, **DFS**, **BFS**, 정렬, 이진 탐색, 다이나믹 프로그래밍, 최단 경로, 그래프 이론 등
 - 학습 자료: [나동빈님의 YouTube 영상 시리즈](https://www.youtube.com/watch?v=m-9pAwq1o3w&list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC&index=1)
 
 ### 알고리즘 문제 풀이
@@ -29,8 +28,7 @@
 
 ---
 
-## 웹 IDE 사용
-
+## 온라인 개발 환경
 - [Replit Python 환경](https://replit.com/languages/python3)
 
 ---
